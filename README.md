@@ -1,1 +1,1 @@
-Machine Learning ExercisesRepo
+Machine Learning Exercises Repo
