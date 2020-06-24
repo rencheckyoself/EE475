@@ -1,1 +1,1 @@
-Repo EE475 at Northwestern
+Machine Learning ExercisesRepo
